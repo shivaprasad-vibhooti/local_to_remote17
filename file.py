@@ -1,9 +1,1 @@
-print("hello world")
-print("shiv")
-print("shivaji")
-print("shivaji maharaj")
-print("shivaji maharaj is great")
-print("shivaji maharaj is great king")
-print("shivaji maharaj is great king of maratha empire")
-print("ujwal2")
-print("ujwal17")
+
